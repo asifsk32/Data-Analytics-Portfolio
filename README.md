@@ -1,4 +1,3 @@
-# Data Analytics Portfolio
 
 # [Project 1: Hotel Booking Data and Revenue Analysis](https://github.com/asifsk32/Hotel-Revenue.git)
 
