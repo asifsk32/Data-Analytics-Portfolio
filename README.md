@@ -14,4 +14,4 @@ Expected outcomes of the project are:
 - SQL is used to Analyse the Data and join the different tables
 - Power BI to Visualize the trends of Revenue year on year, Adr, Total bookings across the countries
 
-## Hotel Booking Data Dashboard ![](https://github.com/asifsk32/Hotel-Revenue/blob/fffdf18a0c4136ae08b9fff68515b2fe32766e5b/Hotel%20Analysis%20Dashboard.png)
+## Hotel Booking Data Dashboard ![](Hotel_Analysis_Dashboard.png)
